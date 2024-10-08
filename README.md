@@ -23,9 +23,9 @@ This project analyzes the Breast Cancer Wisconsin Diagnostic dataset to predict 
 - KNN, Naive Bayes, Logistic Regression
 
 ## Contributors
-- Kalpesh Tapase
+- Ketaki Sahasrabudhe
 - Shubham Bhide
 - Kimaya Aher
-- Ketaki Sahasrabudhe
+- Kalpesh Tapase
 - Shubham Galande
 - Pradip Sirsat
