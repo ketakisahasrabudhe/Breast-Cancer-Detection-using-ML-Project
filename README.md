@@ -13,7 +13,7 @@ This project analyzes the Breast Cancer Wisconsin Diagnostic dataset to predict 
 ## How to Run
 1. Clone the repository.
 2. Open the R file in RStudio.
-3. Run the code to load and analyze the dataset.
+3. Run the code to load and analyze the dataset. (Code snippet for random forest is available in the report)
 4. Use the model comparison results to predict cancer diagnosis.
 
 ## Technologies Used
